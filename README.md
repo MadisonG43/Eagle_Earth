@@ -1,7 +1,7 @@
 # Eagle_Earth
 Selling flowers to brighten up the future. We have a wide selection of flowers from Perennials to Roses for bringing a happier feeling to landscapes.
 
-Hi, my name is Madison Granger, and my partners in this project are Tori Trice and Kiley Chilcutt I made the idea of the Eagle Earth site back in 2020 because it was springtime and who wouldn’t want flowers for their yard to make everything look better? However, I had to move the idea of this site to this year due to covid, but that is a-okay with me because it’s still springtime. I worked on some of the front-end of the website -- but mainly the back-end-- while Tori and Kiley worked on more of the frontend of the website.
+Hi, my name is Madison Granger, and my partners in this project are Tori Trice and Kiley Chilcutt. I made the idea of the Eagle Earth site back in 2020 because it was springtime and who wouldn’t want flowers for their yard to make everything look better? However, I had to move the idea of this site to this year due to covid, but that is a-okay with me because it’s still springtime. I worked on some of the front-end of the website -- but mainly the back-end-- while Tori and Kiley worked on more of the frontend of the website.
 
 The front-end of the website wasn’t a tough task due to us knowing how to design one, but the only area that was a little bit of a challenge was the slideshows that I made out of JavaScript. This was because I couldn’t figure out how to put multiple slideshows on one page; However, it didn’t take me too long to fix that problem because, believe it or not, the PHP that I learned helped me read and figure out JavaScript better.
 
